@@ -31,7 +31,7 @@ namespace FrogRace
 
             for (int i = 0; i < 10; i++) 
             {
-                Thread.Sleep(rnd.Next(500));
+                Thread.Sleep(rnd.Next(1000));
                 Console.WriteLine($"Rã #{id} deu salto #{i + 1}");
                 
             }
