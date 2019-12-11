@@ -1,0 +1,11 @@
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\bin\Debug\netcoreapp3.0\FrogRace.exe
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\bin\Debug\netcoreapp3.0\FrogRace.deps.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\bin\Debug\netcoreapp3.0\FrogRace.runtimeconfig.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\bin\Debug\netcoreapp3.0\FrogRace.runtimeconfig.dev.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\bin\Debug\netcoreapp3.0\FrogRace.dll
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\bin\Debug\netcoreapp3.0\FrogRace.pdb
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\obj\Debug\netcoreapp3.0\FrogRace.csprojAssemblyReference.cache
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\obj\Debug\netcoreapp3.0\FrogRace.AssemblyInfoInputs.cache
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\obj\Debug\netcoreapp3.0\FrogRace.AssemblyInfo.cs
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\obj\Debug\netcoreapp3.0\FrogRace.dll
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula11\FrogRace\obj\Debug\netcoreapp3.0\FrogRace.pdb
