@@ -5,8 +5,15 @@ namespace FrogRace
 {
     class Program
     {
+        private static Random rnd;
+        private static object threadLock;
+
+
         static void Main(string[] args)
         {
+            rnd = new Random();
+            threadLock = new object();
+
             Thread t1 = new Thread(FrogRace);
 
             Thread t2 = new Thread(FrogRace);
@@ -27,12 +34,18 @@ namespace FrogRace
             
 
             int id = (int)obj;
-            Random rnd = new Random(id);
 
             for (int i = 0; i < 10; i++) 
             {
-                Thread.Sleep(rnd.Next(1000));
-                Console.WriteLine($"Rã #{id} deu salto #{i + 1}");
+                int waitFOrMillis;
+
+                lock (threadLock) 
+                {
+                    waitFOrMillis = rnd.Next(1000);
+                }
+
+                Thread.Sleep(waitFOrMillis);
+                Console.WriteLine($"Rã #{id} deu salto #{i + 1} (aleatorio = {waitFOrMillis})");
                 
             }
         }
